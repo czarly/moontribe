@@ -18,5 +18,9 @@ You can find things that we are working or playing with right now in our public 
 
 Find us every day following the [google calendar](https://calendar.google.com/calendar/embed?src=somethingwithmoon%40gmail.com&ctz=Asia%2FSaigon). 
 
+You can edit this website and issue a pull request to update. 
+
+
+I like you.
 
 
